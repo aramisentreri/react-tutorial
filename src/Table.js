@@ -18,7 +18,7 @@ const TableHeader = () => {
   return (
     <thead>
       <tr>
-        <th>Person Name</th>
+        <th>Name</th>
         <th>Job</th>
       </tr>
     </thead>
